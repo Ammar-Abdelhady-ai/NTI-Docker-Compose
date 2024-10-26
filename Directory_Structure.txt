@@ -1,0 +1,6 @@
+NTI-Docker-Compose/
+├── Dockerfile
+├── app.py
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
